@@ -8,7 +8,7 @@ Devolopmet of IOS S310121-R091121 (EmuTOS support)
 
 
 
-Changelog:
+**Changelog:**
 
 S310121-R091121_DEVEL0 
 
