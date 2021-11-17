@@ -16,8 +16,8 @@ S310121-R091121_DEVEL0
                   
                   - Added new opcodes for LBA disk access: SELLBA, WRITELBA, READLBA, ERRLBA;
                     NOTE: when disk is accessed this way, the FAT based disk access opcodes (SELDISK,
-                          SELTRACK, SELSECT, WRITESECT, ERRDISK, READSECT, FLUSHBUFF) must not be used, 
-                          and vice versa!
+                          SELTRACK, SELSECT, WRITESECT, ERRDISK, READSECT, FLUSHBUFF) must not be 
+                          used,and vice versa!
                           
 S310121-R091121_DEVEL1 
 
