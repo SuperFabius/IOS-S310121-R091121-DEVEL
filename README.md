@@ -31,7 +31,7 @@ S310121-R091121_DEVEL1
                   - Changed SETIRQ opcode to add Systick and Serial 2 Rx IRQ enable;
                   
                   NOTE ABOUT IRQ USAGE: When using the CPU interrupt the IOS opcode operations must be 
-                  treated as atomic operations, so CPU interrupts must be disabled before and re-enabled 
-                  after
+                  treated as atomic operations, so CPU interrupts must be disabled before and 
+                  re-enabled after.
                   
                   
