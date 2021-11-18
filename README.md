@@ -30,12 +30,14 @@ S310121-R091121_DEVEL1
                   
                   - Changed SETIRQ opcode to add Systick and Serial 2 Rx IRQ enable;
                   
-                  NOTE ABOUT IRQ USAGE: When using the CPU interrupts the IOS opcode operations must be 
-                  treated as atomic operations to avoid to "break" the opcode call sequence, so CPU 
-                  interrupts must be disabled before and re-enabled after.
+                  NOTE ABOUT IRQ USAGE: When using the CPU interrupts the IOS opcode operations must 
+                  be treated as atomic operations to avoid to "break" the opcode call sequence, so 
+                  CPU interrupts must be disabled before and re-enabled after.
                   
                   NOTE ABOUT THE SD WITH EMUTOS: the partition on the SD must be a FAT16 max 2GB large 
                   (it is possible to format a FAT16 up to 4GB, but here a "legacy" max 2GB FAT16 is 
                   required).
+                  
+                  NOTE ABOUT RAM WITH EMUTOS: 1024KB RAM are required to run EmuTOS.
                   
                   
