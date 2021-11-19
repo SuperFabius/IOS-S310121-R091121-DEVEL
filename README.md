@@ -40,4 +40,11 @@ S310121-R091121_DEVEL1
                   
                   NOTE ABOUT RAM WITH EMUTOS: 1024KB RAM are required to run EmuTOS.
                   
+ S310121-R091121_DEVEL2
+ 
+                  Added EmuTOS support:
+                  - Now EmuTOS is selectable in the same way of CP/M-68K, and associated with 
+                     the "Disk Set 1" (but in this case is the whole SD);
+                     
+                  NOTE: The file DS1NAM.DAT must be copied into the SD root for a correct OS naming.
                   
