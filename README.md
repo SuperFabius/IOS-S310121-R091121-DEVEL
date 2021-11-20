@@ -34,7 +34,7 @@ S310121-R091121_DEVEL1
                   (it is possible to format a FAT16 up to 4GB, but here a "legacy" max 2GB FAT16 is 
                   required).
                   
-                  NOTE ABOUT RAM WITH EMUTOS: 1024KB RAM are required to run EmuTOS.
+                  NOTE ABOUT RAM WITH EMUTOS: 1024KB RAM are currently required to run EmuTOS.
                   
  S310121-R091121_DEVEL2
  
