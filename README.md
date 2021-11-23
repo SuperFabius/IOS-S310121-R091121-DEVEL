@@ -44,3 +44,11 @@ S310121-R091121_DEVEL1
                      
                   NOTE: The file DS1NAM.DAT must be copied into the SD root for a correct OS naming.
                   
+                  
+S310121-R091121_DEVEL3
+ 
+                  Added EmuTOS support:
+                  - The EmuTOS selection now uses the EMUTOS.ADR (mandatory) file to set the loading
+                     starting address and the execution address as done in the Autoboot mode;
+                     
+                  NOTE: Copy/rename AUTOBOOT.ADR as EMUTOS.ADR.
