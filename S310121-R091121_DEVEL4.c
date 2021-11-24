@@ -93,9 +93,8 @@ S310121-R091121_DEVEL3                                                          
                      starting address and the execution address as done in the Autoboot mode;
  
 S310121-R091121_DEVEL4                                                                      ****************************************
-                  Changed the "system boot menu" behavior: now selecting 5 (Change Disk Set...) will select the
-                   option 4 too (Load OS from...) too if a disk set was changed/selected.
-
+                  Changed the "system boot menu" behavior: now choosing option 5 (Change Disk Set...) selects the
+                   option 4 too (Load OS from...) if a disk set was changed/selected;
 
 
 ---------------------------------------------------------------------------------
