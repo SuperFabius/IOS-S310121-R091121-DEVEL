@@ -51,4 +51,8 @@ S310121-R091121_DEVEL3
                   - The EmuTOS selection now uses the EMUTOS.ADR (mandatory) file to set the loading
                      starting address and the execution address as done in the Autoboot mode;
                      
-                  NOTE: Copy/rename AUTOBOOT.ADR as EMUTOS.ADR.
+
+S310121-R091121_DEVEL4
+ 
+                  Changed the "system boot menu" behavior: now selecting 5 (Change Disk Set...) will select the
+                   option 4 too (Load OS from...) too if a disk set was changed/selected;
